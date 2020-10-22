@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
     def index 
-        render plain: "Hello World"
+        render plain: "Hello World Hello Mars"
     end 
 end
